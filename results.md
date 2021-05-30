@@ -1,4 +1,4 @@
-Tableau avec les résultats pour un calcul du r2 score (effectué 100x) avec les 13 colonnes de la base de donnée.
+Tableau avec les résultats pour un calcul du r2 score (effectué 100x) avec les 13 colonnes de la base de donnée (donc sans la variable dépendante [MEDV]).
 Voici comment lire le tableau :
 ```txt
 [
