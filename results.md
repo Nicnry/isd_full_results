@@ -1,3 +1,13 @@
+Tableau avec les résultats pour un calcul du r2 score (effectué 100x) avec les 13 colonnes de la base de donnée.
+Voici comment lire le tableau :
+```txt
+[
+    [
+        r2_score,
+        ['colonnes']
+    ],
+]
+```
 
 ```txt
 
