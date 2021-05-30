@@ -8,6 +8,7 @@ Voici comment lire le tableau :
     ],
 ]
 ```
+Résultats obtenus : <br>
 
 ```txt
 
